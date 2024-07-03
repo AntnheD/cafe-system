@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Today's Special",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/tdspetial.png",
+    "image": "../..//src/css/img/tdspetial.png",
     "alt": "todays special food picture",
     "catagorys": "TODAYS-SPECIAL"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "chekolet cake",
     "price": "7",
-    "image": "/Project/FrontEnd/src/css/img/cake.png",
+    "image": "../..//src/css/img/cake.png",
     "alt": "todays special food picture",
     "catagorys": "CAKE"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "apet",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/appetizer.png",
+    "image": "../..//src/css/img/appetizer.png",
     "alt": "todays special food picture",
     "catagorys": "APPETIZER"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "name": "desserts",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/dessert.png",
+    "image": "../..//src/css/img/dessert.png",
     "alt": "todays special food picture",
     "catagorys": "DESSRTS"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "fish cotelet",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/luanch.png",
+    "image": "../..//src/css/img/luanch.png",
     "alt": "todays special food picture",
     "catagorys": "LUANCHS"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "name": "combo",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/diner.png",
+    "image": "../..//src/css/img/diner.png",
     "alt": "todays special food picture",
     "catagorys": "DINERS"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "name": "fruit panch",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/fruits.png",
+    "image": "../..//src/css/img/fruits.png",
     "alt": "todays special food picture",
     "catagorys": "FRUITS"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "name": "Kannur Cocktail",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/kannurCocktail.png",
+    "image": "../..//src/css/img/kannurCocktail.png",
     "alt": "todays special food picture",
     "catagorys": "JUICES"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "Leclou Cocktail",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/LeClouCocktail.png",
+    "image": "../..//src/css/img/LeClouCocktail.png",
     "alt": "todays special food picture",
     "catagorys": "JUICES"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "name": "Strawberry Shake",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/strawberryShake.png",
+    "image": "../..//src/css/img/strawberryShake.png",
     "alt": "todays special food picture",
     "catagorys": "JUICES"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Watermelon Shake",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/watermelonShake.png",
+    "image": "../..//src/css/img/watermelonShake.png",
     "alt": "todays special food picture",
     "catagorys": "JUICES"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "name": "softdrink",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/softdrink.png",
+    "image": "../..//src/css/img/softdrink.png",
     "alt": "todays special food picture",
     "catagorys": "SOFTDRINKS"
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "name": "Heniken Beer",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/henikenAlco.png",
+    "image": "../..//src/css/img/henikenAlco.png",
     "alt": "todays special food picture",
     "catagorys": "ALCOHOLIC-DRINKS"
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "name": "Donjulio",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/donjulioAlco.png",
+    "image": "../..//src/css/img/donjulioAlco.png",
     "alt": "todays special food picture",
     "catagorys": "ALCOHOLIC-DRINKS"
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "name": "Bacardia",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/bacardiAlco.png",
+    "image": "../..//src/css/img/bacardiAlco.png",
     "alt": "todays special food picture",
     "catagorys": "ALCOHOLIC-DRINKS"
   },
@@ -123,7 +123,7 @@
     "id": 16,
     "name": "Wiski",
     "price": "25",
-    "image": "/Project/FrontEnd/src/css/img/alcohol.png",
+    "image": "../..//src/css/img/alcohol.png",
     "alt": "todays special food picture",
     "catagorys": "ALCOHOLIC-DRINKS"
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "name": "pasta",
     "price": "45",
-    "image": "/Project/FrontEnd/src/css/img/pasta-removebg-preview.png",
+    "image": "../..//src/css/img/pasta-removebg-preview.png",
     "alt": "pasta picture",
     "catagorys": "LUANCHS"
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "name": "ananas-with-hinger-guss",
     "price": "15",
-    "image": "/Project/FrontEnd/src/css/img/anaswithginger-guss-removebg-preview.png",
+    "image": "../..//src/css/img/anaswithginger-guss-removebg-preview.png",
     "alt": "pasta picture",
     "catagorys": "JUICES"
   },
@@ -147,7 +147,7 @@
     "id": 19,
     "name": "chikenwing",
     "price": "35",
-    "image": "/Project/FrontEnd/src/css/img/chikenwing-with-vegi-removebg-preview.png",
+    "image": "../..//src/css/img/chikenwing-with-vegi-removebg-preview.png",
     "alt": "chikenwing-with-vegi picture",
     "catagorys": "LUANCHS"
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "name": "choclet-kack",
     "price": "35",
-    "image": "/Project/FrontEnd/src/css/img/choclet-kack-removebg-preview.png",
+    "image": "../..//src/css/img/choclet-kack-removebg-preview.png",
     "alt": "choclet-kack picture",
     "catagorys": "CAKE"
   },
@@ -163,7 +163,7 @@
     "id": 21,
     "name": "Coffee",
     "price": "5",
-    "image": "/Project/FrontEnd/src/css/img/coffee-removebg-preview.png",
+    "image": "../..//src/css/img/coffee-removebg-preview.png",
     "alt": "COFEE picture",
     "catagorys": "HOT-DRINKS"
   },
@@ -171,7 +171,7 @@
     "id": 22,
     "name": "Dark coffee",
     "price": "5",
-    "image": "/Project/FrontEnd/src/css/img/darck-coffee-removebg-preview.png",
+    "image": "../..//src/css/img/darck-coffee-removebg-preview.png",
     "alt": "coffee picture",
     "catagorys": "HOT-DRINKS"
   },
@@ -179,7 +179,7 @@
     "id": 23,
     "name": "cupkake",
     "price": "5",
-    "image": "/Project/FrontEnd/src/css/img/cupkake-removebg-preview.png",
+    "image": "../..//src/css/img/cupkake-removebg-preview.png",
     "alt": "cupkake picture",
     "catagorys": "CAKE"
   },
@@ -187,7 +187,7 @@
     "id": 25,
     "name": "pankake",
     "price": "5",
-    "image": "/Project/FrontEnd/src/css/img/pankake-removebg-preview.png",
+    "image": "../..//src/css/img/pankake-removebg-preview.png",
     "alt": "pankake picture",
     "catagorys": "CAKE"
   },
@@ -195,7 +195,7 @@
     "id": 26,
     "name": "Punjab",
     "price": "5",
-    "image": "/Project/FrontEnd/src/css/img/punjab-grill-beverage-removebg-preview.png",
+    "image": "../..//src/css/img/punjab-grill-beverage-removebg-preview.png",
     "alt": "punjab-grill-beverage picture",
     "catagorys": "ALCOHOLIC-DRINKS"
   },
@@ -203,7 +203,7 @@
     "id": 27,
     "name": "sambusa",
     "price": "5",
-    "image": "/Project/FrontEnd/src/css/img/sambusa-removebg-preview.png",
+    "image": "../..//src/css/img/sambusa-removebg-preview.png",
     "alt": "sambusa picture",
     "catagorys": "APPETIZER"
   },
@@ -211,7 +211,7 @@
     "id": 28,
     "name": "spacial-sandwich",
     "price": "5",
-    "image": "/Project/FrontEnd/src/css/img/spacial-sandwich-removebg-preview.png",
+    "image": "../..//src/css/img/spacial-sandwich-removebg-preview.png",
     "alt": "spacial-sandwich picture",
     "catagorys": "LUANCHS"
   },
@@ -219,7 +219,7 @@
     "id": 28,
     "name": "stic-rost",
     "price": "5",
-    "image": "/Project/FrontEnd/src/css/img/stic-rost-removebg-preview.png",
+    "image": "../..//src/css/img/stic-rost-removebg-preview.png",
     "alt": "stic-rost picture",
     "catagorys": "DESSRTS"
   },
@@ -227,7 +227,7 @@
     "id": 29,
     "name": "strobary-coctail",
     "price": "5",
-    "image": "/Project/FrontEnd/src/css/img/strobary-coctail-removebg-preview.png",
+    "image": "../..//src/css/img/strobary-coctail-removebg-preview.png",
     "alt": "strobary-coctail",
     "catagorys": "ALCOHOLIC-DRINKS"
   }

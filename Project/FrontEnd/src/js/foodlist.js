@@ -2,7 +2,7 @@
 
 let httpF = new XMLHttpRequest();
 
-httpF.open("GET", "/Project/FrontEnd/src/js/foodlist.json", true);
+httpF.open("GET", "../..//src/js/foodlist.json", true);
 
 httpF.send();
 
