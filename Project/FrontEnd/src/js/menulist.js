@@ -2,7 +2,7 @@
 
 let httpM = new XMLHttpRequest();
 
-httpM.open("GET", "/Project/FrontEnd/src/js/menulist.json", true);
+httpM.open("GET", "../..//src/js/menulist.json", true);
 
 httpM.send();
 
